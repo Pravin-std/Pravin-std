@@ -17,7 +17,7 @@
 Name     : Pravin K
 Role     : Aspiring Data Analyst
 College  : Sri Shanmugha College of Engineering and Technology, Sankari
-Degree   : B.Tech — Artificial Intelligence & Data Science (3rd Year)
+Degree   : B.Tech — Artificial Intelligence & Data Science 
 Learning : Python · C · Java · SQL
 Project  : RouteX — TNSTC Bus Route Finder & Ticket Booking App
 Contact  : pravinkaliyappan@gmail.com
